@@ -1,0 +1,4 @@
+.env
+scan_results/
+__pycache__/
+cyberscan.db

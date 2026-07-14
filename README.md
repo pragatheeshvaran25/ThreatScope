@@ -4,9 +4,9 @@ Cyber Risk Assessment & Threat Intelligence Dashboard
 
 ---
 
-## 👥 Developed By
+##  Developed By
 - Pragatheeshvaran R 
-- PraveenKumar V
+  
 
 ---
 
